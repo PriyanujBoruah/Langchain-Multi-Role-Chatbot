@@ -1,10 +1,10 @@
-### **Langchain Multi-Character Chatbot**
+### **Langchain Multi-Role Chatbot**
 
 ---
 
 ## **Overview**
 
-The **Character Chatbot** is a web-based application that allows users to interact with prebuilt or custom characters. Each character has a unique personality, backstory, and conversation style, powered by Google's Gemini LLM (Large Language Model). The app is built using **Streamlit** for the frontend, **LangChain** for integrating the LLM, and **SQLite** for storing prebuilt character data.
+The **Multi-Role Chatbot** is a web-based application that allows users to interact with prebuilt or custom roles or characters. Each character has a unique personality, backstory, and conversation style, powered by Google's Gemini LLM. The app is built using **Streamlit** for the frontend, **LangChain** for integrating the LLM, and **SQLite** for storing prebuilt character data.
 
 ---
 
@@ -78,7 +78,7 @@ character-chatbot/
 ### **2. Install Dependencies**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/character-chatbot.git
+   git clone https://github.com/PriyanujBoruah/Langchain-Multi-Role-Chatbot.git
    cd character-chatbot
    ```
 
