@@ -1,10 +1,10 @@
-### **Langchain Multi-Role Chatbot**
+### **NebulaBot: A Langchain Multi-Role Chatbot**
 
 ---
 
 ## **Overview**
 
-The **Multi-Role Chatbot** is a web-based application that allows users to interact with prebuilt or custom roles or characters. Each character has a unique personality, backstory, and conversation style, powered by Google's Gemini LLM. The app is built using **Streamlit** for the frontend, **LangChain** for integrating the LLM, and **SQLite** for storing prebuilt character data.
+**NebulaBot** is a web-based application that allows users to interact with prebuilt or custom roles or characters. Each character has a unique personality, backstory, and conversation style, powered by Google's Gemini LLM. The app is built using **Streamlit** for the frontend, **LangChain** for integrating the LLM, and **SQLite** for storing prebuilt character data.
 
 ---
 
