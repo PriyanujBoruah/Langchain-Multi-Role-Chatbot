@@ -6,7 +6,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain.prompts import PromptTemplate
 
 # Set page config FIRST
-st.set_page_config(page_title="Character Chatbot", layout="wide")
+st.set_page_config(page_title="NebulaBot", layout="wide")
 
 # Initialize environment and LLM
 load_dotenv()
