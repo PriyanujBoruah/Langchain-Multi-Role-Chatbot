@@ -229,22 +229,6 @@ character-chatbot/
 
 ---
 
-## **Future Enhancements**
-
-1. **Persistent Storage**:
-   - Save chat history and custom characters to a database for long-term storage.
-
-2. **Multi-User Support**:
-   - Add user authentication and separate chat histories for each user.
-
-3. **Advanced Character Customization**:
-   - Allow users to upload character avatars or customize voice responses.
-
-4. **Integration with External APIs**:
-   - Add features like weather updates, news summaries, or trivia games.
-
----
-
 ## **Conclusion**
 
 The **Character Chatbot** is a versatile and interactive application that leverages modern AI and web technologies to provide a unique conversational experience. With its modular design and extensible architecture, it can be easily customized and expanded for various use cases.
