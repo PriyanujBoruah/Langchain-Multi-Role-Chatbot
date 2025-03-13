@@ -1,4 +1,5 @@
 streamlit
-langchain-google-genai
 python-dotenv
+langchain-google-genai
+langchain
 sqlite3
