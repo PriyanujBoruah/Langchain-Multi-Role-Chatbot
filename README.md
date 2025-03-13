@@ -78,7 +78,7 @@ character-chatbot/
 ### **2. Install Dependencies**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/PriyanujBoruah/Langchain-Multi-Role-Chatbot.git
+   git clone https://github.com/PriyanujBoruah/NebulaBot.git
    cd character-chatbot
    ```
 
